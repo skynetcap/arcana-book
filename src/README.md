@@ -6,5 +6,10 @@ Arcana is a Java-based local web GUI for running automated bots and strategies o
 
 - Provide liquidity on Solana markets, earn returns via market making
 - No smart contract risk
-- Self-custody of private key
 - *Web GUI* for administration
+- Run automated trading strategies with full self-custody
+
+## Markets Supported
+
+- [OpenBook](https://github.com/openbook-dex)
+- TBD: Drift, Zeta, Phoenix
