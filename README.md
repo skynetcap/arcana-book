@@ -1,3 +1,3 @@
 # arcana-book
 
-mdBook documentation powering arcana.markets
+mdBook documentation powering [arcana.markets](arcana.markets)
