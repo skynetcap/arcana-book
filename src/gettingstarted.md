@@ -1,4 +1,6 @@
-# Arcana Introduction
+# Getting Started
 
-Local web GUI for running automated bots and strategies on Solana DEXs.
-
+- Install Docker (for Desktop)
+- Download `arcana` image from Docker Hub
+- Launch `arcana` Docker instance
+- Access Arcana via https://localhost:8712/
