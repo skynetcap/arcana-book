@@ -4,7 +4,7 @@
 - [Getting Started](./gettingstarted.md)
 	- [Installation FAQ](./installation_faq.md)
 - [Strategies](./strats.md)
-	- [OpenBook: Top of Book + Fixed Spread](./example_strat_2.md)
+	- [OpenBook: Pure Market Making](./example_strat_2.md)
 	- [OpenBook example: mSOL/USDC](./example_strat_1.md)
 	- [Pricing Sources](./pricing_sources.md)
 		- [Pyth](./pyth.md)
