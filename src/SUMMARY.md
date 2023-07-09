@@ -8,3 +8,4 @@
 	- [Pricing Sources](./pricing_sources.md)
 		- [Pyth](./pyth.md)
 		- [Jupiter](./jupiter.md)
+- [Bots](./bots.md)
