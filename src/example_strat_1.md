@@ -4,7 +4,8 @@ This is an example SPL/USDC OpenBook trading strategy, that will match for any g
 
 ---
 
-Trading logic:
+## Trading Logic (mSOL/USDC)
+
 1. Get top of book bid, top of book ask
 2. Calculate % change with our spread applied
 3. If price change % is not significant enough from step 2, abort.
