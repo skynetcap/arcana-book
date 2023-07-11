@@ -10,3 +10,4 @@
 		- [Pyth](./pyth.md)
 		- [Jupiter](./jupiter.md)
 - [Bots](./bots.md)
+- [Contribute](./contribute.md)
