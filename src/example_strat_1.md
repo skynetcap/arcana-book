@@ -1,4 +1,4 @@
-# Example strategy
+# OpenBook: mSOL/USDC Strategy
 
 This is an example SPL/USDC OpenBook trading strategy, that will match for any generic SPL. In this instance, mSOL is the base token. USDC is the quote token.
 

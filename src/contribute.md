@@ -1,4 +1,7 @@
 # Contribute
 
-SOL Donations: skynet.sol
+## SOL Donations
+skynet.sol
+
+## GitHub
 github.com/skynetcap/arcana
