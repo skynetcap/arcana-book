@@ -8,4 +8,5 @@
 	- `docker run -p 8080:8080 mmorrell/arcana`
 4. Access Arcana via Browser
 	- `http://localhost:8080/`
-
+5. Configure RPC and private key on the Settings page.
+6. 🧙‍
